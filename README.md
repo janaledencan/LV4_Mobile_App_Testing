@@ -12,4 +12,11 @@
 }
 ```
 -> this enables elements inspection
+
+<div align="center">
+    <img src="appium_inspect_element.png"></img>  
+</div>
+
 - Added Appium, TestNG and maven-surefire-plugin dependencies to POM.xml
+
+
